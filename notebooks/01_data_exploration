@@ -1,0 +1,23 @@
+# 📊 Maersk Container Data Exploration
+
+## Objective
+Explore and understand the container shipment dataset to identify patterns, constraints, and optimization opportunities.
+
+## Dataset Overview
+- **Initial Records**: 33,794 shipment-level records
+- **Data Source**: Internal Transportation Management System (TMS)
+- **Time Period**: 12 months of historical data
+- **Geographic Scope**: Turkey logistics network
+
+## Key Insights
+1. Distribution of shipment types (Export/Import/Transit)
+2. Fleet utilization patterns
+3. Cost structure analysis
+4. Geographic concentration of demand
+5. Seasonal trends and patterns
+
+## Visualizations
+- Shipment volume by type and month
+- Geographic distribution heatmap
+- Cost distribution analysis
+- Fleet utilization trends
